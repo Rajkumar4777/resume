@@ -22,11 +22,11 @@ Education:
 SOFTWARE SKILLS:
 • Microsoft Excel
 • Microsoft Word
-• Tally Erp
 • Python
 • Mysql 
 • Mongodb
 • Machine Learning
+• Tally Erp
 
 PERSONAL SKILLS:
 ▪ Easy Adaptability to work in any situations.
@@ -51,6 +51,6 @@ I hereby declare that all the above furnished information is true and genuine to
 of my knowledge.
 
 PLACE: Kangayam.
-DATE: 03.08.2023. 
+DATE: 07.08.2023. 
 
 (RAJ KUMAR.M)
